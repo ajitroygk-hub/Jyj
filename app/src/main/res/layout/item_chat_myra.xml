@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="start|center_vertical"
+    android:orientation="horizontal"
+    android:paddingVertical="4dp"
+    android:paddingStart="8dp"
+    android:paddingEnd="48dp">
+
+    <!-- Small red dot avatar for MYRA -->
+    <View
+        android:layout_width="8dp"
+        android:layout_height="8dp"
+        android:background="@drawable/bg_orb_glow"
+        android:layout_marginEnd="8dp" />
+
+    <TextView
+        android:id="@+id/myraMessageText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_chat_myra"
+        android:textColor="@color/text_primary"
+        android:textSize="13sp"
+        android:fontFamily="sans-serif"
+        android:lineSpacingExtra="2dp"
+        android:maxWidth="280dp" />
+
+</LinearLayout>

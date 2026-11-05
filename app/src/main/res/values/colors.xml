@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#050505</color>
+    <color name="accent_red">#FF1744</color>
+    <color name="accent_purple">#D500F9</color>
+    <color name="card_dark">#111111</color>
+    <color name="prime_card_bg">#1A0000</color>
+    <color name="text_primary">#EEEEEE</color>
+    <color name="text_hint">#555555</color>
+    <color name="text_secondary">#9E9E9E</color>
+    <color name="color_success">#00E676</color>
+    <color name="color_danger">#FF1744</color>
+
+    <color name="orb_idle_start">#B71C1C</color>
+    <color name="orb_idle_end">#880E4F</color>
+    <color name="orb_active_start">#FF1744</color>
+    <color name="orb_active_end">#D500F9</color>
+    <color name="orb_speaking_start">#E040FB</color>
+    <color name="orb_speaking_end">#FF1744</color>
+    <color name="orb_thinking_start">#40C4FF</color>
+    <color name="orb_thinking_end">#00B0FF</color>
+    <color name="transparent">#00000000</color>
+</resources>

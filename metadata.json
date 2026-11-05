@@ -1,0 +1,6 @@
+{
+  "name": "MYRA",
+  "description": "AI Voice Assistant powered by Gemini Live WebSocket with native audio and phone controls",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

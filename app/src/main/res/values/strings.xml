@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MYRA</string>
+    <string name="accessibility_description">MYRA Assistant accessibility service to control apps, open/close, click, scroll and type on your behalf.</string>
+</resources>
